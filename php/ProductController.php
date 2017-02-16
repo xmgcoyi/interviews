@@ -78,7 +78,7 @@ class ProductController {
                 if ($response[$i]['prices'][$j]['currencyCode'] != 'ZAR') {
                     $p_price = array();
                     $p_price['price'] = $response[$i]['prices'][$j]['sellingPrice'];
-                    $p_price['curreny'] = $response[$i]['prices'][$j]['currencyCode'];
+                    $p_price['currency'] = $response[$i]['prices'][$j]['currencyCode'];
                     $prod["prices"][] = $p_price;
                 }
             }
