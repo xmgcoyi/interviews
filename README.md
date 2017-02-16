@@ -1,6 +1,6 @@
-# Realmdigital Pre-Interview Refactoring Exercise #
+# Realmdigital Pre-Interview Refactoring #
 
-The code contained herein contains duplication and inconsistencies.
+The code contained herein contains duplication and inconsistencies, and bad practices.
 
 ### What to do? ###
 
