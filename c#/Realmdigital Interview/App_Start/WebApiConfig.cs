@@ -7,7 +7,7 @@ using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
 using Newtonsoft.Json.Serialization.ContractResolverExtentions;
 
-namespace Retiremate_Integration_Services
+namespace Realmdigital_Interview
 {
     public static class WebApiConfig
     {

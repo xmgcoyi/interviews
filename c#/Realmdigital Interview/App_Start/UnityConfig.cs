@@ -2,7 +2,7 @@ using Microsoft.Practices.Unity;
 using System.Web.Http;
 using Unity.WebApi;
 
-namespace Retiremate_Integration_Services
+namespace Realmdigital_Interview
 {
     public static class UnityConfig
     {

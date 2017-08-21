@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace Retiremate_Integration_Services
+namespace Realmdigital_Interview
 {
     public class BundleConfig
     {

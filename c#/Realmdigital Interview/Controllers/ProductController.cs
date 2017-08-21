@@ -7,7 +7,7 @@ using System.Web;
 using System.Web.Http;
 using Newtonsoft.Json;
 
-namespace Retiremate_Integration_Services.Controllers
+namespace Realmdigital_Interview.Controllers
 {
     public class ProductController
     {
